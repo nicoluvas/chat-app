@@ -1,13 +1,13 @@
 # REACT + VITE + NODE => CHATENGINE.IO
 
 instalação do node 
-<code>
-    npm install // pensa num bagulho óbvio
-</code>
+```bash
+    npm install 
+```
 
 
 para inicializar
-<code>
+```bash
     *\chat-app\backend> npm run start
     *\chat-app\frontend> npm run dev
-</code>
+```
